@@ -1,6 +1,6 @@
 # Openvpn-accessubuntuScript
 
-This is a quick and simple script to fast install openvpn access server into your ubuntu server
+This is a quick and simple script to fast install openvpn access server into your ubuntu server (16.04 64 Bit)
 
 
 #To use,  run these commands
